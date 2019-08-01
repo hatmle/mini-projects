@@ -9,3 +9,7 @@ challenges. But it also indicated insights about the development activities over
 ## Objective
 - Read in, clean up and visualize a real world Git repository dataset of the Linux kernel. 
 - Be familiar with Pandas DataFrames, especially the read_csv and groupby functions, as well as with working with time series data.
+
+## Data
+- git_log_excerpt.csv 
+- git_log.gz 
