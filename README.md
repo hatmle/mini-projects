@@ -4,3 +4,4 @@
 3. Runkeeper (importing & cleaning data, probability & statistics)
 4. Disney movie (Linear regression)
 5. Song genre (data manipulation, visualization, PCA)
+6. Explore LEGO
